@@ -1,0 +1,25 @@
+{"_createdAt":"2024-01-27T05:28:37Z","_id":"620c6980-9bd3-4ddb-9bd3-276d5bf2ab58",
+"_rev":"4wiRJQR0cTN9haItBUkgF2",
+"_type":"product",
+"_updatedAt":"2024-01-27T05:28:37Z",
+"delivery":"We carefully package our macarons and use Royal Mail to post them to you under first class postage. We do not ship to international addresses outside of the UK.",
+"details":"Enjoy the taste of our indulgent Chocolate Orange Macarons. Bursting with 100% natural flavours, our perfectly proportioned treats are handcrafted in our kitchen and beautifully packaged for your enjoyment.",
+"image":[{"_sanityAsset":"image@file://./images/06c2859a95a103cec5535bb3012dc13a1666abf9-456x456.png","_key":"80edbe42070c","_type":"image"}],
+"name":"Caramel Apple",
+"price":18.5,
+"sku":"MACM001",
+"slug":{"_type":"slug","current":"caramel-apple"},
+"weight":"300g"
+}
+
+{ 
+"_type":"product",
+"delivery":"We carefully package our macarons and use Royal Mail to post them to you under first class postage. We do not ship to international addresses outside of the UK.",
+"details":"Enjoy the taste of our indulgent Chocolate Orange Macarons. Bursting with 100% natural flavours, our perfectly proportioned treats are handcrafted in our kitchen and beautifully packaged for your enjoyment.",
+"image":[{"_sanityAsset":"image@https://github.com/Apress/Practical-Next.js-for-E-Commerce/blob/main/Ch3_Code_Nextjs_eCommerce/Ch3_Code_Nextjs_eCommerce/adding%20products/chocolate-orange.jpg", "_type":"image"}],
+"name":"Chocolate Orange",
+"price":18.5,
+"sku":"MACM002",
+"slug":{"_type":"slug","current":"caramel-apple"},
+"weight":"300g"
+}
